@@ -1,0 +1,23 @@
+{
+  "name": "lectio-webscraper",
+  "version": "1.0.0",
+  "description": "A simple webscraper for the danish webapp \"Lectio\".",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^7.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Philipnah/Lectio-webscraper.git"
+  },
+  "author": "Philipnah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Philipnah/Lectio-webscraper/issues"
+  },
+  "homepage": "https://github.com/Philipnah/Lectio-webscraper#readme"
+}
